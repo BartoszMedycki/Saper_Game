@@ -25,6 +25,7 @@ namespace Saper
             }
             // sprawdzamy zmiany w Gicie 2
             // sprawdzamy zmiany w Gicie 2
+            // sprawdzamy zmiany w Gicie 3
 
 
 
