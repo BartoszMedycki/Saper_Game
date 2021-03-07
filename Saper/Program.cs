@@ -23,7 +23,9 @@ namespace Saper
                 if (p.gameOver(c)) break;
 
             }
-           
+            // sprawdzamy zmiany w Gicie 2
+            // sprawdzamy zmiany w Gicie 2
+            // sprawdzamy zmiany w Gicie 3
 
 
 
